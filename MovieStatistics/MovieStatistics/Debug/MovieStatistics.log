@@ -1,8 +1,0 @@
-﻿  MovieStatistics.cpp
-c:\mycode\movie_statistics\moviestatistics\moviestatistics\moviestatistics.cpp(55): warning C4018: '<': signed/unsigned mismatch
-c:\mycode\movie_statistics\moviestatistics\moviestatistics\moviestatistics.cpp(168): warning C4018: '<': signed/unsigned mismatch
-c:\mycode\movie_statistics\moviestatistics\moviestatistics\moviestatistics.cpp(185): warning C4018: '<': signed/unsigned mismatch
-c:\mycode\movie_statistics\moviestatistics\moviestatistics\moviestatistics.cpp(191): warning C4018: '<': signed/unsigned mismatch
-c:\mycode\movie_statistics\moviestatistics\moviestatistics\moviestatistics.cpp(205): warning C4018: '<': signed/unsigned mismatch
-  MovieStatistics.vcxproj -> C:\myCode\Movie_Statistics\MovieStatistics\Debug\MovieStatistics.exe
-  MovieStatistics.vcxproj -> C:\myCode\Movie_Statistics\MovieStatistics\Debug\MovieStatistics.pdb (Full PDB)
